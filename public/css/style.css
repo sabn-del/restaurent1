@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+.div1{
+    max-width: 100%;
+    background-color: crimson;
+    height: 40%;
+    margin:0
+}
+#id1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:0
+}
+.div2{
+    height:700px;
+    width:100%;
+    background-image:url("./img/clem-onojeghuo-zlABb6Gke24-unsplash\ \(1\).jpg") ;
+    background-size: 100% 100%;
+}
+.content{
+   
+   top:50%;
+   left:50%;
+   border: 1px ; 
+   margin:0;
+   color: beige;
+   border: 2px solid blue;
+    margin-top: 2px;
+    margin-left: 5%;
+    letter-spacing:2px ;
+    line-height: 25px;
+
+} 
+
+p{
+    margin: 70px;
+    margin-left:10px ;
+}
+.div3{
+   width: 100%;
+   height:600px ;
+   
+   
+}
+.div4{
+    width:50%;
+    height:100px;
+    background-color: greenyellow;
+    text-align: right ;
+    margin-top: 0;
+    font-size: xx-large;
+    padding:60px;
+    
+
+
+    
+
+}
+.div5{
+    height:400px;
+    width:400px;
+    background-image:url("./img/eiliv-sonas-aceron-ZuIDLSz3XLg-unsplash\ \(1\).jpg") ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    float:left;
+    margin-top: -225px;
+}
+.div6{
+    height:400px;
+    width:400px;
+    margin-left: 700px;
+    text-align: start;
+    float:right;
+    border-bottom-color: black;
+    float:right;
+    
+    
+    
+}
+.p{
+    height:40%;
+    width:45%;
+    text-align: center center;
+    margin-left: 400px;
+    font-family: 'Permanent Marker', cursive;
+    border-bottom-left-radius:100px;
+    border-bottom:50px solid rgb(10, 10, 9);
+    
+    
+}
+.color{
+    border: bottom left radius 100px;
+    border-bottom:50px solid chocolate;
+    float: right;
+}
+.img{
+height:400px;
+width:400px;
+background-image: url("./img/chad-montano-eeqbbemH9-c-unsplash.jpg");
+background-size: cover;
+
+float: right;
+margin-top: -400px;
+
+}
+.secdiv{
+    height: 700px;
+    max-width:500%;
+    border:1px solid salmon;
+}
+.sectionimg{
+    width:100%;
+    height:100%;
+    background-size: 100% 100%;
+    background-image: url("./img/leila-bandringa-m-eGUZHf8cg-unsplash.jpg");
+    margin-top: -60px;
+}
+.learn{
+    height:50%;
+    width:80%;
+    text-align: center;
+    color: beige;
+}  
+#l{
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-size:400%;
+    margin-left: 30%;
+}
+#lorem{
+    margin-left:40%;
+    margin-top:-4%;
+    
+text-align: center;
+}
+#i{
+    margin-top:-5% ;
+    margin-left: 35%;
+}
+
+  .base{
+      height:450px;
+      width:300px;
+      margin-left: 2%;
+      margin-top: -10%;
+      text-align: center;
+      background-color:darkolivegreen ;
+      opacity: 0.5;
+      color: beige;
+      
+      
+  }
+  .knife{
+      height:460px;
+      width:340px;
+      margin-left: 35%;
+      margin-top: -36%;
+      display: block;
+      text-align: center;
+    background-color: maroon;
+      opacity: 0.5;
+      color: beige;
+  }
+  .cooking{
+      height:65%;
+      width:25%;
+      margin-top: -36%;
+      margin-left: 70%;
+      text-align: center;
+      background-color: rgb(49, 3, 38);
+      opacity: 0.5;
+      color: beige;
+  }
